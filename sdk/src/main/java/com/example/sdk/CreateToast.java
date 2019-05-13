@@ -7,7 +7,7 @@ import android.widget.Toast;
  * Created by Pallavi on 13/05/19.
  */
 
-public class Message {
+public class CreateToast {
 
     public static void s(Context c, String message){
 
